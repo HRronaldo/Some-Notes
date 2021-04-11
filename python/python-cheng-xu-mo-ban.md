@@ -1,5 +1,5 @@
 ---
-description: .py 文件模板
+description: .py 文件程序模板
 ---
 
 # Python 程序模板
